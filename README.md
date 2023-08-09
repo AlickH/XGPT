@@ -16,7 +16,7 @@ A macOS Client for free.xabcai.com made by Tkinter and Pyinstaller
 
 ## 预览（底下左右两个按钮暂时没用，忘了说了，发送message的快捷键是 `command + enter`）：
 
-<img src="/preview/light.png" alt="亮色模式" width="500" align="bottom" /><img src="/preview/dark.png" alt="暗色模式" width="500" align="bottom" />
+<img src="/preview/light.png" alt="亮色模式" width="400" align="bottom" /><img src="/preview/dark.png" alt="暗色模式" width="400" align="bottom" />
 
 
 https://github.com/AlickH/XGPT/assets/6060026/a9a3004b-daef-4621-a2fa-1677b9cd9cfc
