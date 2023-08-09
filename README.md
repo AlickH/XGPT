@@ -6,7 +6,7 @@ A macOS Client for free.xabcai.com made by Tkinter and Pyinstaller
 
 ## 唠叨：
 
-秉承`又不是不能用`、`只要有一个能跑就行`的原则，采用`ChatGPT 我考考你`、`面向Google、Stack Overflow`编程的方法，生成了这个应用。
+秉承`又不是不能用`、`只要有一个能跑就行`的原则，采用`ChatGPT 我考考你`、`面向Google、Stack Overflow编程`的方法，生成了这个应用。
 
 本应用 99.9% 的代码由ChatGPT生成，我只是代码的搬运工和排列组合大师，所以不要和我说什么代码复用，代码封装还有其他什么我不懂的名词，我知道这个脚本的代码是屎山一座，So What。
 
