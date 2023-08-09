@@ -19,6 +19,10 @@ A macOS Client for free.xabcai.com made by Tkinter and Pyinstaller
 <img src="/preview/light.png" alt="亮色模式" width="500" align="bottom" /><img src="/preview/dark.png" alt="暗色模式" width="500" align="bottom" />
 
 
+https://github.com/AlickH/XGPT/assets/6060026/a9a3004b-daef-4621-a2fa-1677b9cd9cfc
+
+
+
 
 ## 对了，我打包的版本仅支持 `Apple Silicon` 处理器，如果你是 `Intel` 处理器的 Mac，打包命令如下：
 
