@@ -16,9 +16,8 @@ A macOS Client for free.xabcai.com made by Tkinter and Pyinstaller
 
 ## 预览（底下左右两个按钮暂时没用，忘了说了，发送message的快捷键是 `command + enter`）：
 
-![亮色模式](/preview/light.png)
-![暗色模式](/preview/dark.png)
-![预览视频](/preview/demo.mov)
+<img src="/preview/light.png" alt="亮色模式" width="500" align="bottom" /><img src="/preview/dark.png" alt="暗色模式" width="500" align="bottom" />
+
 
 
 ## 对了，我打包的版本仅支持 `Apple Silicon` 处理器，如果你是 `Intel` 处理器的 Mac，打包命令如下：
