@@ -1,7 +1,7 @@
 # XGPT
 A macOS Client for free.xabcai.com made by Tkinter and Pyinstaller
 
-一个用 Tkinter 绘制 UI 和 Pyinstaller 打包的 macOS ChatGPT 应用（采用 [free.xabcai.com](free.xabcai.com) 的API）
+一个用 Tkinter 绘制 UI 和 Pyinstaller 打包的 macOS ChatGPT 应用（采用 [free.xabcai.com](https://free.xabcai.com) 的API）
 
 
 ## 唠叨：
